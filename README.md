@@ -51,6 +51,12 @@ You will see a menu like this:
 Choose an option and follow the prompts.
 
 ------------------------------------
+DEMONSTRATION VIDEO
+------------------------------------
+
+[https://youtu.be/h3YptbmQw5E](https://youtu.be/h3YptbmQw5E)
+
+------------------------------------
 AUTHOR
 ------------------------------------
 
